@@ -31,9 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="gotoxy.h" />
+		<Unit filename="libreria_colores.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="menu.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1629289338 source:c:\users\aleja\onedrive\documentos\github\programacion2\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"gotoxy.h"
+
+1628995125 c:\users\aleja\onedrive\documentos\github\programacion2\tp1\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"libreria_colores.h"
+	"gotoxy.h"
+
+1628956012 c:\users\aleja\onedrive\documentos\github\programacion2\tp1\libreria_colores.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1628959607 c:\users\aleja\onedrive\documentos\github\programacion2\tp1\gotoxy.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
